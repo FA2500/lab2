@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Genshin Vision</string>
+    <string-array name="Visions">
+        <item>Anemo</item>
+        <item>Geo</item>
+        <item>Electro</item>
+        <item>Dendro</item>
+        <item>Hydro</item>
+        <item>Pyro</item>
+        <item>Cryo</item>
+    </string-array>
+</resources>
